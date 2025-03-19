@@ -2,8 +2,10 @@
 marp: true
 ---
 
-# Setting up Jenkins freestyle project
+# Setting up a freestyle project in Jenkins
+
 **Day - 1**
+
 <p>24MCR029 <br>
 Harikrishnan N </p>
 
@@ -72,7 +74,6 @@ Harikrishnan N </p>
 # Signing in with jenkins
 
 <img src="./images/signing-in-jenkins.png" width="950px">
-
 
 ---
 
