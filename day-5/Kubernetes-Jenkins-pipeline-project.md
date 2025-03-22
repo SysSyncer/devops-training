@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# Deploying the project in kubernetes
+# Building kubernetes project
 
 **Day - 5**
 
