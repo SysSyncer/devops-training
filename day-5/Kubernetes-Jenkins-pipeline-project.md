@@ -2,9 +2,9 @@
 marp: true
 ---
 
-# Setting up minikube and kubectl and deploying a project in kubernetes
+# Deploying the project in kubernetes
 
-**Day - 3 and 4**
+**Day - 5**
 
 <p>24MCR029 <br>
 Harikrishnan N </p>
